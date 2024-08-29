@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e89346e0-c5ac-4621-bf59-445a25bb9b37" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/weka.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datasets.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLAssignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output_Screenshots/Output_Screenshot/Classification/Output2Final" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output_Screenshots/Output_Screenshot/Classification/Output2FinalLatex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output_Screenshots/Output_Screenshot/Classification/Output2screenFinal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output_Screenshots/Output_Screenshot/Regression/Output2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output_Screenshots/Output_Screenshot/Regression/Output3correct" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Output_Screenshots/Output_Screenshot/Regression/output3correctlatex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weka/classifiers/meta/XGBoost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weka/classifiers/trees/XGBoostTree.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2jwodNsUMsrPBs2zSXlqi3yb6AC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WEKA GUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.XGBoost.executor&quot;: &quot;Run&quot;,
+    &quot;Application.XGBoostTree.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sumee/Downloads/weka-3-8-6/weka-3-8-6/weka-src.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/sumee/IdeaProjects/MLAssignment1/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.WEKA GUI">
+    <list>
+      <item itemvalue="Application.XGBoostTree" />
+      <item itemvalue="Application.XGBoost" />
+      <item itemvalue="Application.WEKA GUI" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e89346e0-c5ac-4621-bf59-445a25bb9b37" name="Changes" comment="" />
+      <created>1722307598800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722307598800</updated>
+      <workItem from="1722307599851" duration="5532000" />
+      <workItem from="1722384099797" duration="676000" />
+      <workItem from="1723363926867" duration="16000" />
+      <workItem from="1723425411804" duration="762000" />
+      <workItem from="1724028945292" duration="361000" />
+      <workItem from="1724029361196" duration="1106000" />
+      <workItem from="1724148045406" duration="5765000" />
+      <workItem from="1724195340659" duration="2152000" />
+      <workItem from="1724201773765" duration="10934000" />
+      <workItem from="1724218194684" duration="544000" />
+      <workItem from="1724287085774" duration="21006000" />
+      <workItem from="1724372353035" duration="584000" />
+      <workItem from="1724375404978" duration="39548000" />
+      <workItem from="1724452508698" duration="17079000" />
+      <workItem from="1724555858109" duration="1743000" />
+      <workItem from="1724566910593" duration="6486000" />
+      <workItem from="1724618263082" duration="1062000" />
+      <workItem from="1724621775777" duration="634000" />
+      <workItem from="1724622517626" duration="265000" />
+      <workItem from="1724622835854" duration="170000" />
+      <workItem from="1724623414235" duration="1942000" />
+      <workItem from="1724629574148" duration="1403000" />
+      <workItem from="1724631550902" duration="161000" />
+      <workItem from="1724631755620" duration="23000" />
+      <workItem from="1724632222732" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

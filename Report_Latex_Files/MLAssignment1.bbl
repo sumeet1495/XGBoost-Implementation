@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{chen2016xgboost}
+Tianqi Chen and Carlos Guestrin.
+\newblock Xgboost: A scalable tree boosting system.
+\newblock In {\em Proceedings of the 22nd acm sigkdd international conference
+  on knowledge discovery and data mining}, pages 785--794, 2016.
+
+\bibitem{weka_book}
+Ian~H. Witten, Eibe Frank, and Mark~A. Hall.
+\newblock {\em Data Mining: Practical Machine Learning Tools and Techniques}.
+\newblock Morgan Kaufmann, Burlington, MA, 3 edition, 2011.
+
+\end{thebibliography}
